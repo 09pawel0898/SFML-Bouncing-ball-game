@@ -20,7 +20,7 @@
     2. Run *.exe file
     3. Have fun :)
 
-# ScrennShots
+# ScreenShots
 
 ![ScreenShot](screenshot1.png)
 
